@@ -1,0 +1,89 @@
+.footer-div{
+    background-color: #1B1A17;
+    width: 100%;
+    height: auto;
+    padding: 100px 0px;
+    position: relative;
+    top: -100px;
+    color: #fff;
+}
+
+.footer_heading_stlyes{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+ul,li{
+    text-decoration: none;
+    list-style: none;
+}
+.footer_span_text{
+   margin-left:-30px;
+   font-size: 18px;
+   line-height: 1rem;
+}
+
+.footer_span_text:hover{
+    color:crimson;
+    font-size: 18px; 
+    cursor: pointer;
+}
+
+.footer_head{
+    margin-bottom: 30px;
+}
+
+.top_margin{
+    margin-top: 40px;
+}
+
+.flag_india_flex{
+    display: flex;
+}
+.flex{
+    display: flex;  
+   margin-left: 10px;
+}
+
+.india_flag{
+    font-size: 20px;
+   
+}
+
+.taj_img{
+    height: 130px;
+}
+.INDIA{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.india_address{
+    margin-left: -25px;
+    font-size: 14px;
+    color: #ddd;
+}
+
+.phone_no{
+    line-height: 0rem;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.input{
+    background-color: black;
+    border: 0.5px solid rgb(20, 20, 20);
+     width: 400px;
+     height: 50px;
+}
+
+.input::placeholder{
+    margin: 50px;
+}
+
+
+.copay_right_text{
+    color: white;
+    margin-top: 150px;
+
+}
