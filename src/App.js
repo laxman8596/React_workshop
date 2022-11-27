@@ -29,6 +29,7 @@
 
 import React from 'react'
 import Stories from './Components/Big_stories/Stories';
+import Coverage from './Components/Coverage/Coverage';
 import Footer from './Components/Footer/Footer';
 import Latest from './Components/latest/Latest';
 import Social from './Components/Social_Media/Social';
@@ -38,6 +39,8 @@ const App = () => {
     <div>
       <Work/>
       <Latest/>
+      <Coverage/>
+     
       <Social/>
       <Stories/>
       <Footer/>

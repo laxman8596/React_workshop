@@ -1,0 +1,26 @@
+.coverage_rows{
+   
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 100px;
+   
+    
+}
+
+.row_img{
+    width: 100px;
+    height: 60px;
+    margin-top: 5px;
+}
+
+.space{
+    background-color: red;
+    
+}
+
+.space1{
+    background-color: crimson;
+    
+}
