@@ -3,7 +3,7 @@ import Sociall from '../Social_Media/Social.css'
 const Social = () => {
   return (
     <>
- <div className='container-fluid'>
+ <div className='container-fluid my-4'>
     <h3 className='Social_Media_Heading'>Social Media</h3>
     <div className='row social_media '>
         <div className='col-6'>
