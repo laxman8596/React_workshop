@@ -4,8 +4,9 @@ const Footer = () => {
   return (
     <div className='footer-div'>
        <div className='row footer_heading_stlyes'>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-            <h2 className='footer_head'>About</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+            <span>About</span>
+            <h2 className=''>About</h2>
             <ul>
                 <li><p className='footer_span_text'>Who We Are</p></li>
                 <li><p className='footer_span_text'>Career</p></li>
@@ -18,8 +19,9 @@ const Footer = () => {
                 <li><p className='footer_span_text'>Contact Us</p></li>
             </ul>
         </div>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-        <h2 className='footer_head'>Mobile</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+            <span>Mobile</span>
+        <h2 className=''>Mobile</h2>
         <ul>
                 <li><p className='footer_span_text'>Android Apps</p></li>
                 <li><p className='footer_span_text'>iPhone Apps</p></li>
@@ -32,8 +34,9 @@ const Footer = () => {
                 <li><p className='footer_span_text'>Xamrin</p></li>
             </ul>
         </div>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-        <h2 className='footer_head'>Web</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+            <span>Web</span>
+        <h2 className=''>Web</h2>
 
             <ul>
                 <li><p className='footer_span_text'>PHP</p></li>
@@ -48,8 +51,9 @@ const Footer = () => {
             </ul>
         </div>
 
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-            <h2 className='footer_head'>Ecommerce</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+           <span>Ecommerce</span>
+            <h2>Ecommerce</h2>
             <ul>
                 <li><p className='footer_span_text'>Magento</p></li>
                 <li><p className='footer_span_text'>Shopify</p></li>
@@ -62,8 +66,9 @@ const Footer = () => {
     
             </ul>
         </div>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-        <h2 className='footer_head'>AI & ML</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+        <span>AI & ML</span>
+        <h2>AI & ML</h2>
         <ul>
                 <li><p className='footer_span_text'>Text to Speech</p></li>
                 <li><p className='footer_span_text'>Bussiness Intelligence</p></li>
@@ -76,8 +81,9 @@ const Footer = () => {
 
             </ul>
         </div>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-        <h2 className='footer_head'>IoT & Embedded</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+        <span>IoT & Embedded</span>
+        <h2>IoT & Embedded</h2>
 
             <ul>
                 <li><p className='footer_span_text'>IoT App</p></li>
@@ -89,8 +95,9 @@ const Footer = () => {
             </ul>
         </div>
 
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-            <h2 className='footer_head'>Blockchain</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+        <span>Blockchain</span>
+            <h2>Blockchain</h2>
             <ul>
                 <li><p className='footer_span_text'>Wallet</p></li>
                 <li><p className='footer_span_text'>Exchange</p></li>
@@ -102,8 +109,9 @@ const Footer = () => {
 
             </ul>
         </div>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-        <h2 className='footer_head'>Game</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+        <span>Game</span>
+        <h2>Game</h2>
         <ul>
                 <li><p className='footer_span_text'>Unity 3D</p></li>
                 <li><p className='footer_span_text'>Unreal Engine</p></li>
@@ -114,8 +122,9 @@ const Footer = () => {
 
             </ul>
         </div>
-        <div className='col-xs-12 col-sm-6 col-md-4 top_margin'>
-        <h2 className='footer_head'>Salesforce</h2>
+        <div className='col-xs-12 col-sm-6 col-md-4 section-title'>
+        <span>Salesforce</span>
+        <h2>Salesforce</h2>
 
             <ul>
                 <li><p className='footer_span_text'>Salesforce Development</p></li>
