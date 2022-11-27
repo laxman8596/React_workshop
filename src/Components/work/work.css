@@ -1,0 +1,42 @@
+
+
+
+.work_main{
+    width: 100%;
+    height: auto;
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+.card{
+    width: 300px;
+    height:150px;
+    margin:  10px;
+    border-radius: 24px;
+}
+
+.row_col{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards_flex_wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.who_we_div {
+    color: #fff;
+    margin-top: 50px;
+    padding:0px 10px;
+}
+
+.who_we{
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.company_names{
+    margin-top: 100px;
+}
+
